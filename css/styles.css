@@ -1,14 +1,42 @@
 .jumps {
   color: blue;
   font-family: monospace;
+  float: left;
+
+  padding-left: 30px;
 }
 
 .hist {
+  float: left;
   color: brown;
   font-family: fantasy;
+
+  padding-left: 30px;
 }
 
 .compare {
   color: pink;
   font-family: serif;
+  float: left;
+
+  padding-left: 30px;
+}
+
+img {
+  float: left;
+  margin: 20px
+}
+
+.sidebar {
+  float: right;
+  width: 20%;
+  color: teal;
+  background-color: yellow;
+  padding: 10px 20px;
+}
+
+div.space {
+  padding: 20px;
+  margin: 10px;
+  background-color: pink;
 }
